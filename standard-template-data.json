@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T01:07:22.447534281Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T14:37:58.630518091Z",
     "templateType": "trip_f",
     "propertyId": "d1de4b2f-8800-4593-ae02-85c3ba0253a7",
     "homepageId": "c4e909bc-f702-470d-af79-2ffaceebf273"
@@ -1983,8 +1983,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "4ab39ba7-7794-4c95-b3ae-fae951aa3064",
-                    "url": "https://onthehill.co.kr/assets/images/room/layout.webp",
+                    "id": "01a12119-6c21-74d0-897e-ccaad2255df0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c4e909bc-f702-470d-af79-2ffaceebf273/layout_map_about/1791556676062-k09clegw6r.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1996,6 +1996,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -2050,7 +2053,7 @@
             {
               "id": "c21fac31-5417-4825-8b03-86b7b286effa",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c4e909bc-f702-470d-af79-2ffaceebf273/roomtype_thumbnail/1789033361547-nx9uelwcdh.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "322dbfcf-e821-4e14-9780-644493c647fb",
@@ -2219,7 +2222,7 @@
             {
               "id": "a7dcfb16-db80-4c66-8361-363177197e6c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c4e909bc-f702-470d-af79-2ffaceebf273/roomtype_thumbnail/1789032602488-7pu8cgd0b0.jpg",
-              "sortOrder": 0,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "f40d4beb-8de8-48f5-98e3-f8f6f5a3add8",
