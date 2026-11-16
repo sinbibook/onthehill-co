@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-11-16T02:56:44.159725786Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-11-16T02:57:35.268679809Z",
     "templateType": "trip_f",
     "propertyId": "d1de4b2f-8800-4593-ae02-85c3ba0253a7",
     "homepageId": "c4e909bc-f702-470d-af79-2ffaceebf273"
@@ -2048,7 +2048,6 @@
       "roomtypes": [
         {
           "id": "322dbfcf-e821-4e14-9780-644493c647fb",
-          "name": "온더힐 (독채/벽난로/노래방)",
           "images": [
             {
               "id": "c21fac31-5417-4825-8b03-86b7b286effa",
@@ -2217,7 +2216,6 @@
         },
         {
           "id": "f40d4beb-8de8-48f5-98e3-f8f6f5a3add8",
-          "name": "블루힐 (독채/벽난로/노래방)",
           "images": [
             {
               "id": "a7dcfb16-db80-4c66-8361-363177197e6c",
@@ -2395,7 +2393,6 @@
         },
         {
           "id": "c4543613-7734-44bd-a634-b139a1b3c809",
-          "name": "파인뷰 (독채/벽난로/노래방)",
           "images": [
             {
               "id": "baa76ff2-93bf-4dd2-b9e0-725b461bdefc",
@@ -2609,7 +2606,6 @@
         },
         {
           "id": "289a93dd-8616-40c8-8457-8fd48f36eb13",
-          "name": "그린힐 (독채/벽난로/노래방)",
           "images": [
             {
               "id": "fa5d6770-7012-4047-8b96-1a4c5d3e5898",
